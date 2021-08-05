@@ -1,0 +1,93 @@
+.heading h4
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:35px;
+    color:black;
+
+}
+
+.heading
+{
+    background-color: lavender;
+    padding:20px;
+    margin:15;
+}
+
+.heading h2
+{
+    color:red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mobi
+{
+    font-size:23px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.googlee
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(168, 168, 245);
+}
+
+body
+{
+    background-color:rgb(255, 255, 255);
+}
+
+b
+{
+    color:rgb(110, 21, 168);
+}
+
+.test_img
+{
+ background-color:rgb(158, 158, 158);
+ padding:30px;
+ padding-top:10px;
+ border-radius:20px;
+ width:500px;
+}
+
+p
+{
+    font-size:15;
+    color:black;
+}
+
+.mini_result
+{
+    background-color:rgb(253, 227, 122);
+    margin-top:50px;
+    width:500px;
+    margin-left:70px;
+    padding-left:10px;
+    border-radius:10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border:rgb(223, 194, 80) solid 3px;
+}
+
+img
+{
+    width:200px;
+    border-radius:15px;
+    height:300px;
+}
+
+h5
+{
+    background-color:lavender;
+    width:fit-content;
+    padding:10px;
+    border-radius:10px;
+}
+
+.result
+{
+    text-align:center;
+    background-color:rgb(189, 185, 185);
+    padding:10px;
+    color:black;
+    border-radius:10px;
+}
